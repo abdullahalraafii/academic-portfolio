@@ -746,7 +746,7 @@
    "title": "The Duke of Edinburgh's International Award 2026 (Bronze Award)",
    "org": "The Duke of Edinburgh's International Award Foundation",
    "period": "Sep 2026",
-   "meta": "",
+   "meta": "Awardee",
    "detail": "Received the Duke of Edinburgh’s International Award (Bronze) in September 2026, recognizing my commitment to personal development, leadership, community service, physical recreation, and skill development through sustained participation and achievement.",
    "orgUrl": "",
    "orgLink": "none",
@@ -754,10 +754,10 @@
    "certLabel": "",
    "certIcon": "",
    "certColor": "",
-   "certMethod": "link",
+   "certMethod": "modal",
    "certStyle": "button",
    "certShape": "pill",
-   "certImages": []
+   "certImages": [https://github.com/user-attachments/assets/c84b8938-0a4d-4f22-9525-38f272ce7720]
   },
   {
    "id": 2,
