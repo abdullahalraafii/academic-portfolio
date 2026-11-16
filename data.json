@@ -46,11 +46,6 @@
     "id": 6,
     "name": "About.me",
     "url": "https://about.me/abdullahalrafi"
-   },
-   {
-    "id": 7,
-    "name": "Web of Science",
-    "url": "https://onnoalo.academia.edu/AbdullahalRafii"
    }
   ],
   "focusTags": [
@@ -90,12 +85,6 @@
     "icon": "fas fa-microchip",
     "color": "cyan"
    },
-   {
-  "id": 7,
-  "text": "Web of Science",
-  "icon": "fas fa-flask",
-  "color": "orange"
-  },
   ],
   "address": "Foy's Lake, Zakir Hossain Road, 4202, Chattogram, Bangladesh",
   "hero": {
