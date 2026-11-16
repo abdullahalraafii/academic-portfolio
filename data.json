@@ -289,7 +289,7 @@
    "degree": "Higher School Certificate (HSC)",
    "institution": "Islamia University College, Chittagong",
    "institutionUrl": "https://islamiacollegectg.edu.bd/",
-   "institutionLink": "none",
+   "institutionLink": "link",
    "period": "2019–2021",
    "cgpa": "GPA 4.75",
    "description": "Field of study: Sciences. EQF level 4."
@@ -299,7 +299,7 @@
    "degree": "Secondary School Certificate (SSC)",
    "institution": "Chittagong Government High School",
    "institutionUrl": "https://chittagongghs.edu.bd/",
-   "institutionLink": "none",
+   "institutionLink": "link",
    "period": "2017-2019",
    "cgpa": "GPA 4.67",
    "description": "Field of study: Science. EQF level 2."
