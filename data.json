@@ -1565,7 +1565,6 @@
  ],
  "recommendations": [],
  "sectionVisibility": {
-  "about": true,
   "aboutMe": true,
   "metrics": true,
   "researchFocus": true,
@@ -1593,7 +1592,6 @@
   "extracurricular": true
  },
  "sectionOrder": [
-  "about",
   "aboutMe",
   "education",
   "experience",
@@ -1616,7 +1614,6 @@
  "siteText": {
   "title": "Abdullah Al Rafi | Biochemistry & Biotechnology Researcher",
   "navTitle": "Biochemistry & Biotechnology",
-  "navAbout": "About",
   "navEducation": "Education",
   "navSkills": "Skills",
   "navPublications": "Publications",
@@ -1684,7 +1681,6 @@
   "imageCounter": "Image {i} of {n}"
  },
  "typography": {
-  "about": "Inter",
   "metrics": "Inter",
   "researchFocus": "Inter",
   "education": "Inter",
