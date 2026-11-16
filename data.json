@@ -282,13 +282,13 @@
    "institutionLink": "link",
    "period": "2024 – Present",
    "cgpa": "CGPA 3.56 / 4.00 (average of 1st–5th semesters)",
-   "description": "Semester-wise results: 1st – 3.75 | 2nd – 3.75 | 3rd – 3.63 | 4th – 3.29 | 5th – 3.38. EQF level 6."
+   "description": "EQF level 6."
   },
   {
    "id": 2,
    "degree": "Higher School Certificate (HSC)",
-   "institution": "Islamia University College Chittagong",
-   "institutionUrl": "",
+   "institution": "Islamia University College, Chittagong",
+   "institutionUrl": "https://islamiacollegectg.edu.bd/",
    "institutionLink": "none",
    "period": "2019 – 2021",
    "cgpa": "GPA 4.75",
@@ -298,7 +298,7 @@
    "id": 3,
    "degree": "Secondary School Certificate (SSC)",
    "institution": "Chittagong Government High School",
-   "institutionUrl": "",
+   "institutionUrl": "https://chittagongghs.edu.bd/",
    "institutionLink": "none",
    "period": "",
    "cgpa": "GPA 4.67",
