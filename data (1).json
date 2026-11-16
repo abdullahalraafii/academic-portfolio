@@ -1,0 +1,1888 @@
+{
+ "profile": {
+  "name": "Abdullah Al Rafi",
+  "headerTitle": "Biochemistry & Biotechnology",
+  "title": "Undergraduate Researcher",
+  "position": "Third-year BSc student in Biochemistry and Biotechnology",
+  "institution": "University of Science and Technology Chittagong (USTC)",
+  "institutionUrl": "https://ustc.ac.bd/",
+  "institutionLink": "link",
+  "tagline": "Aspiring PhD Researcher",
+  "cvUrl": "Abdullahalrafi_CV.pdf",
+  "avatarUrl": "profile.jpg",
+  "avatarShape": "square",
+  "yearsExperience": "",
+  "bio": "Biochemistry and Biotechnology undergraduate with research interests in neuroscience, molecular biology, cancer biology, and computational drug discovery.",
+  "researchInterests": "Neuroscience, molecular biology, cancer biology, and computational drug discovery. My work combines collaborative research, scientific writing, bioinformatics, computer-aided drug design, and molecular modelling with ongoing wet-lab and computational projects.",
+  "researchPhilosophy": "",
+  "currentResearch": "Wet-lab projects on Lasia spinosa root extracts (nutritional and diuretic activity) and Cordyceps militaris extracts (antioxidant, antimicrobial, and anticancer potential), alongside computational drug-discovery work on PRMT5 inhibitors and CBP/p300 bromodomain interactions in acute myeloid leukemia.",
+  "socialLinks": [
+   {
+    "id": 1,
+    "name": "Email",
+    "url": "mailto:abdullahalrafi.ustc@gmail.com"
+   },
+   {
+    "id": 2,
+    "name": "Google Scholar",
+    "url": "https://scholar.google.com/citations?user=AL-Q1_MAAAAJ&hl=en"
+   },
+   {
+    "id": 3,
+    "name": "ORCID",
+    "url": "https://orcid.org/0009-0004-0467-6494"
+   },
+   {
+    "id": 4,
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/abdullahalraafi/"
+   },
+   {
+    "id": 5,
+    "name": "ResearchGate",
+    "url": "https://www.researchgate.net/profile/Abdullah-Rafi-22"
+   },
+   {
+    "id": 6,
+    "name": "About.me",
+    "url": "https://about.me/abdullahalrafi"
+   }
+  ],
+  "focusTags": [
+   {
+    "id": 1,
+    "text": "Neuroscience",
+    "icon": "fas fa-brain",
+    "color": "blue"
+   },
+   {
+    "id": 2,
+    "text": "Molecular Biology",
+    "icon": "fas fa-dna",
+    "color": "teal"
+   },
+   {
+    "id": 3,
+    "text": "Cancer Biology",
+    "icon": "fas fa-ribbon",
+    "color": "purple"
+   },
+   {
+    "id": 4,
+    "text": "Computational Drug Discovery",
+    "icon": "fas fa-laptop-code",
+    "color": "amber"
+   },
+   {
+    "id": 5,
+    "text": "Bioinformatics",
+    "icon": "fas fa-diagram-project",
+    "color": "indigo"
+   },
+   {
+    "id": 6,
+    "text": "AI in Drug Discovery",
+    "icon": "fas fa-microchip",
+    "color": "cyan"
+   }
+  ],
+  "address": "Foy's Lake, Zakir Hossain Road, 4202, Chattogram, Bangladesh",
+  "hero": {
+   "showTree": false,
+   "photoPos": {
+    "desktop": "left",
+    "mobile": "top"
+   },
+   "align": {
+    "desktop": "center",
+    "mobile": "center"
+   },
+   "nameSize": 0,
+   "nameColor": "",
+   "posSize": 0,
+   "posColor": "",
+   "bioSize": 0,
+   "bioColor": "",
+   "bgType": "gradient",
+   "bgColor": "#FFFFFF",
+   "bgGradient": "ocean",
+   "bgImage": "",
+   "overlay": 0,
+   "minHeight": 0,
+   "padTop": 0,
+   "padBottom": 0,
+   "showTagline": true,
+   "showInstitution": true,
+   "showAddress": true,
+   "showEmail": true,
+   "showKeywords": true,
+   "showSocial": true,
+   "showCv": true,
+   "slide": true,
+   "photoShape": {
+    "desktop": "",
+    "mobile": ""
+   },
+   "styles": {
+    "photo": {
+     "shadow": {
+      "desktop": "soft",
+      "mobile": "soft"
+     },
+     "width": {
+      "desktop": "240",
+      "mobile": "190"
+     }
+    },
+    "name": {
+     "opacity": {
+      "desktop": "",
+      "mobile": ""
+     },
+     "size": {
+      "desktop": "40",
+      "mobile": "40"
+     },
+     "align": {
+      "desktop": "center",
+      "mobile": "center"
+     }
+    },
+    "position": {
+     "align": {
+      "desktop": "center",
+      "mobile": "center"
+     }
+    },
+    "institution": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     }
+    },
+    "address": {
+     "align": {
+      "desktop": "center",
+      "mobile": "center"
+     }
+    },
+    "socials": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     }
+    },
+    "socialLinks": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     }
+    },
+    "cv": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     }
+    }
+   },
+   "kw": {
+    "showIcon": true,
+    "layout": {
+     "desktop": "center",
+     "mobile": "center"
+    }
+   }
+  },
+  "email": "abdullahalrafi.ustc@gmail.com",
+  "contactIntro": "Interested in research collaboration, or have a question about my work? Send me a message.",
+  "contactSubject": "Message from your portfolio website",
+  "contactNameLabel": "",
+  "contactEmailLabel": "",
+  "contactMsgLabel": "",
+  "contactSendLabel": "",
+  "contactSuccessMsg": ""
+ },
+ "aboutMe": {
+  "title": "About Me",
+  "subtitle": "Biochemistry & Biotechnology undergraduate | Aspiring researcher",
+  "description": "I am a third-year undergraduate student in Biochemistry and Biotechnology at the University of Science and Technology Chittagong (USTC), with research interests in neuroscience, molecular biology, cancer biology, and computational drug discovery.\n\nI have experience in collaborative research, scientific writing, bioinformatics, computer-aided drug design, and molecular modelling, alongside ongoing wet-lab and computational research projects. I am also actively involved in scientific communication, academic leadership, and international research networks.\n\nI aspire to pursue advanced research training and contribute to biomedical research and academia.",
+  "left": false
+ },
+ "metrics": [
+  {
+   "id": "manuscripts",
+   "label": "Manuscripts",
+   "source": "publications.total",
+   "value": "",
+   "enabled": true,
+   "prefix": "",
+   "suffix": ""
+  },
+  {
+   "id": "preprints",
+   "label": "Preprints",
+   "source": "manual",
+   "value": "3",
+   "enabled": true,
+   "prefix": "",
+   "suffix": ""
+  },
+  {
+   "id": "conferences",
+   "label": "Conference Presentations",
+   "source": "manual",
+   "value": "9",
+   "enabled": true,
+   "prefix": "",
+   "suffix": ""
+  },
+  {
+   "id": "societies",
+   "label": "Professional Societies",
+   "source": "manual",
+   "value": "8",
+   "enabled": true,
+   "prefix": "",
+   "suffix": ""
+  }
+ ],
+ "news": [
+  {
+   "id": 1,
+   "date": "Oct 2026",
+   "text": "Preprint posted on bioRxiv: Targeting PRMT5 Across Cancers and AI-Driven Discovery of Candidate Compounds."
+  },
+  {
+   "id": 2,
+   "date": "Sep 2026",
+   "text": "Awarded the Duke of Edinburgh's International Award (Bronze)."
+  },
+  {
+   "id": 3,
+   "date": "Aug 2026",
+   "text": "Joined Aspire Institute Inc. as Campus Leader."
+  },
+  {
+   "id": 4,
+   "date": "Apr 2026",
+   "text": "Poster presentations at the 6th International Young Biotechnologist Congress 2026 (University of Dhaka) and the 2nd National Youth Cancer Congress 2026."
+  },
+  {
+   "id": 5,
+   "date": "Dec 2025",
+   "text": "Two preprints posted on medRxiv: breast and cervical cancer burden, and the diabetes epidemic in Bangladesh."
+  }
+ ],
+ "education": [
+  {
+   "id": 1,
+   "degree": "Bachelor of Science in Biochemistry and Biotechnology",
+   "institution": "University of Science and Technology Chittagong (USTC), Chattogram",
+   "institutionUrl": "https://ustc.ac.bd/",
+   "institutionLink": "link",
+   "period": "2024 – Present",
+   "cgpa": "CGPA 3.56 / 4.00 (average of 1st–5th semesters)",
+   "description": "Semester-wise results: 1st – 3.75 | 2nd – 3.75 | 3rd – 3.63 | 4th – 3.29 | 5th – 3.38. EQF level 6."
+  },
+  {
+   "id": 2,
+   "degree": "Higher School Certificate (HSC)",
+   "institution": "Islamia University College Chittagong",
+   "institutionUrl": "",
+   "institutionLink": "none",
+   "period": "2019 – 2021",
+   "cgpa": "GPA 4.75",
+   "description": "Field of study: Sciences. EQF level 4."
+  },
+  {
+   "id": 3,
+   "degree": "Secondary School Certificate (SSC)",
+   "institution": "Chittagong Government High School",
+   "institutionUrl": "",
+   "institutionLink": "none",
+   "period": "",
+   "cgpa": "GPA 4.67",
+   "description": "Field of study: Science. EQF level 2."
+  }
+ ],
+ "skills": {
+  "category1": {
+   "title": "Research & Laboratory",
+   "subtitle": "Research methods and scientific practice",
+   "bullets": [
+    "[chip] Research Methodology",
+    "[chip] Molecular Biology Techniques",
+    "[chip] Neurobiology Research",
+    "[chip] Literature Review",
+    "[chip] Data Analysis",
+    "[chip] Scientific Writing"
+   ],
+   "icon": "",
+   "color": "",
+   "bulletStyle": "chip",
+   "chip": {
+    "showIcon": true,
+    "shape": {
+     "mobile": "pill",
+     "desktop": "pill"
+    }
+   }
+  },
+  "category2": {
+   "title": "Computational & Professional",
+   "subtitle": "Drug discovery, communication and leadership",
+   "bullets": [
+    "[chip] Bioinformatics",
+    "[chip] Computational Drug Discovery",
+    "[chip] AI in Drug Discovery",
+    "[chip] Science Communication",
+    "[chip] Project Management",
+    "[chip] Leadership"
+   ],
+   "icon": "",
+   "color": "",
+   "bulletStyle": "chip",
+   "chip": {
+    "showIcon": true,
+    "shape": {
+     "mobile": "pill",
+     "desktop": "pill"
+    }
+   }
+  }
+ },
+ "pubCategories": [
+  {
+   "id": "all",
+   "label": "All Manuscripts"
+  },
+  {
+   "id": "preprint",
+   "label": "Preprint"
+  },
+  {
+   "id": "accepted",
+   "label": "Accepted"
+  },
+  {
+   "id": "under_review",
+   "label": "Under Review"
+  },
+  {
+   "id": "submitted",
+   "label": "Submitted"
+  },
+  {
+   "id": "in_preparation",
+   "label": "In Preparation"
+  }
+ ],
+ "publications": [
+  {
+   "id": 1016,
+   "title": "Targeting PRMT5 Across Cancers and AI-Driven Discovery of Candidate Compounds",
+   "authors": "Sohel Rana, Md. Sanowar Hossan, Abdullah Al Rafi, Deri Damien Hagidok, Alok Kumer, Md. Enamul Kabir Talukder, Rasel A. Al-Amin",
+   "journal": "bioRxiv 2026.10.19.760131",
+   "year": "October 2026",
+   "category": "preprint",
+   "tags": "",
+   "isFirstAuthor": false,
+   "doi": "10.64898/2026.10.19.760131",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 1015,
+   "title": "Trends and Burden of Breast and Cervical Cancer in Bangladesh: A Data-Driven Analysis and Future Outlook",
+   "authors": "Abdullah Al Rafi, Kashefatun Nur Orni, Tasnuba Ashraf Subah, Saima Akther, Ankita Acharjee, Imran Al Zuhayr, Debabrata Mallick",
+   "journal": "medRxiv 2025.12.05.25341679",
+   "year": "December 2025",
+   "category": "preprint",
+   "tags": "",
+   "isFirstAuthor": true,
+   "doi": "10.64898/2025.12.05.25341679",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 1014,
+   "title": "The Diabetes Epidemic in Bangladesh: Trends and Forecasts (2000 to 2050)",
+   "authors": "Jannatul Nayma Eshita, Abu Bakar Al Mizan, Istekab Bin Yousuf, Tazeen Tarannum Sadia, Sidratul Muntaha, Sumaia Alam, Abdullah Al Rafi, Debabrata Mallick",
+   "journal": "medRxiv 2025.12.25.25342994",
+   "year": "December 2025",
+   "category": "preprint",
+   "tags": "",
+   "isFirstAuthor": false,
+   "doi": "10.64898/2025.12.25.25342994",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 100,
+   "title": "Inflammation-Induced Genetic Instability",
+   "authors": "",
+   "journal": "Springer Nature — Gallbladder Cancer: From Gallstones to Malignancy, Volume I: Biological Mechanisms and Diagnostic Approaches",
+   "year": "",
+   "category": "accepted",
+   "tags": "Book Chapter",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 99,
+   "title": "Chemotherapy and Radiotherapy",
+   "authors": "",
+   "journal": "Springer Nature — Gallbladder Cancer: From Gallstones to Malignancy, Volume II: Clinical Management and Recent Advances",
+   "year": "",
+   "category": "accepted",
+   "tags": "Book Chapter",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 98,
+   "title": "Lead-Induced Cognitive Dysfunction",
+   "authors": "",
+   "journal": "Bentham Science Publishers",
+   "year": "",
+   "category": "under_review",
+   "tags": "Book Chapter",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 97,
+   "title": "Nano Formulation-Based Therapeutic Strategies of Natural Products in Esophageal Cancer Chemoresistance and Associated Challenges",
+   "authors": "",
+   "journal": "Nanomedicine: Nanotechnology, Biology, and Medicine",
+   "year": "",
+   "category": "under_review",
+   "tags": "Review Article",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 96,
+   "title": "Heavy Metals and Neurodegeneration: Mechanisms, Implications, and Therapeutics Perspectives",
+   "authors": "",
+   "journal": "IBRO Neuroscience Reports",
+   "year": "",
+   "category": "under_review",
+   "tags": "Review Article",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 95,
+   "title": "Neuropsychological Mechanisms of Cerebellar Function across the Lifespan",
+   "authors": "",
+   "journal": "Frontiers in Psychology",
+   "year": "",
+   "category": "submitted",
+   "tags": "Review Article",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 94,
+   "title": "From Foundation Models to Patient-Specific Molecular Digital Twins: Integrating Multi-Omics, Generative AI, Molecular Simulation, and ADMET Prediction for Precision Drug Discovery",
+   "authors": "",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "",
+   "category": "submitted",
+   "tags": "Review Article",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 93,
+   "title": "The Molecularly Active Dose of Nanomedicines: A Quantitative Framework Linking Biodistribution, Cellular Entry, Intracellular Trafficking, Cargo Release, and Target Engagement",
+   "authors": "",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "",
+   "category": "submitted",
+   "tags": "Review Article",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 92,
+   "title": "Machine Learning-Guided Screening and Molecular Modelling of Potential PRMT5 Inhibitors",
+   "authors": "",
+   "journal": "Chemical Biology & Drug Design",
+   "year": "",
+   "category": "submitted",
+   "tags": "Research Project,Supervisor: Dr. Rasel A. Al-Amin, PhD",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 91,
+   "title": "Emerging Insights into Neuroinflammation in Cerebrovascular Diseases: The Role of Microglia, Astrocytes, and Cytokine Cascades",
+   "authors": "",
+   "journal": "",
+   "year": "",
+   "category": "in_preparation",
+   "tags": "Supervisor: Dr. Mohammad Shahangir Biswas, PhD",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 90,
+   "title": "Recent Advances in the Diagnosis and Management of Neurodegenerative Diseases",
+   "authors": "",
+   "journal": "",
+   "year": "",
+   "category": "in_preparation",
+   "tags": "Supervisor: Dr. Mohammad Shahangir Biswas, PhD",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 89,
+   "title": "When Active Targeting Fails: Molecular Barriers between Ligand–Receptor Recognition and Functional Drug Delivery by Nanomedicines",
+   "authors": "",
+   "journal": "",
+   "year": "",
+   "category": "in_preparation",
+   "tags": "Supervisor: Dr. Mohammad Shahangir Biswas, PhD",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  },
+  {
+   "id": 88,
+   "title": "The Impacts of Cancer-Associated Fibroblasts on the Metabolic Reprogramming in Esophageal Cancer",
+   "authors": "",
+   "journal": "",
+   "year": "",
+   "category": "in_preparation",
+   "tags": "",
+   "isFirstAuthor": false,
+   "doi": "",
+   "journalUrl": "",
+   "journalLink": "none"
+  }
+ ],
+ "experience": [
+  {
+   "id": 1,
+   "institution": "Network of Young Biotechnologists of Bangladesh (NYBB) — Dhaka, Bangladesh",
+   "institutionUrl": "",
+   "institutionLink": "none",
+   "badge": "Current",
+   "images": [],
+   "imagesLabel": "",
+   "certImages": [],
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "modal",
+   "certStyle": "button",
+   "certShape": "pill",
+   "roles": [
+    {
+     "id": 11,
+     "title": "Executive Coordinator of Outreach & Branding",
+     "startDate": "2026",
+     "endDate": "",
+     "description": ""
+    }
+   ],
+   "certUrl": ""
+  },
+  {
+   "id": 2,
+   "institution": "Cambridge University Press & Assessment — Cambridge, United Kingdom",
+   "institutionUrl": "https://cambridgeacademic.recollective.com/academic-panel",
+   "institutionLink": "link",
+   "badge": "Current",
+   "images": [],
+   "imagesLabel": "",
+   "certImages": [],
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "modal",
+   "certStyle": "button",
+   "certShape": "pill",
+   "roles": [
+    {
+     "id": 21,
+     "title": "Cambridge Academic Panel Member",
+     "startDate": "Oct 2025",
+     "endDate": "",
+     "description": "Participating in academic research and user-experience activities designed to improve Cambridge products and services for researchers and authors. Provide insights on academic publishing, Open Access challenges, and research support tools through monthly surveys, feedback sessions, and academic community discussions, following ethical and professional guidelines."
+    }
+   ],
+   "certUrl": ""
+  },
+  {
+   "id": 3,
+   "institution": "Aspire Institute Inc. — Cambridge, MA, United States",
+   "institutionUrl": "https://www.aspireleaders.org/",
+   "institutionLink": "link",
+   "badge": "Current",
+   "images": [],
+   "imagesLabel": "",
+   "certImages": [],
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "modal",
+   "certStyle": "button",
+   "certShape": "pill",
+   "roles": [
+    {
+     "id": 31,
+     "title": "Campus Leader",
+     "startDate": "Aug 2026",
+     "endDate": "",
+     "description": ""
+    },
+    {
+     "id": 32,
+     "title": "Leadership Intern (4 months)",
+     "startDate": "Jul 2024",
+     "endDate": "Nov 2024",
+     "description": "Completed a 4-month program focused on strategic decision-making, teamwork, and leadership. Executed practical leadership projects to develop real-world skills in communication and collaboration."
+    }
+   ],
+   "certUrl": ""
+  },
+  {
+   "id": 4,
+   "institution": "BBTech Journal Club, USTC — Chattogram, Bangladesh",
+   "institutionUrl": "",
+   "institutionLink": "none",
+   "badge": "Current",
+   "images": [],
+   "imagesLabel": "",
+   "certImages": [],
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "modal",
+   "certStyle": "button",
+   "certShape": "pill",
+   "roles": [
+    {
+     "id": 41,
+     "title": "Public Relationship Officer (PRO)",
+     "startDate": "Sep 2025",
+     "endDate": "",
+     "description": "Manage the club's public image through social media and outreach campaigns, coordinate collaborations with academic and research organizations, promote scientific events, seminars, and publications, and support strategic communication and media content creation for science outreach."
+    }
+   ],
+   "certUrl": ""
+  },
+  {
+   "id": 5,
+   "institution": "BioLuster Research Center Ltd — Dhaka, Bangladesh",
+   "institutionUrl": "",
+   "institutionLink": "none",
+   "badge": "Current",
+   "images": [],
+   "imagesLabel": "",
+   "certImages": [],
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "modal",
+   "certStyle": "button",
+   "certShape": "pill",
+   "roles": [
+    {
+     "id": 51,
+     "title": "Young Campus Ambassador 2025",
+     "startDate": "Sep 2025",
+     "endDate": "",
+     "description": "Promote research awareness and bridge BioLuster initiatives with campus communities. Inspire peers and lead science-focused activities, strengthening leadership and community engagement skills."
+    }
+   ],
+   "certUrl": ""
+  },
+  {
+   "id": 6,
+   "institution": "United People Global (UPG) — Geneva, Switzerland",
+   "institutionUrl": "https://unitedpeople.global/",
+   "institutionLink": "link",
+   "badge": "Current",
+   "images": [],
+   "imagesLabel": "",
+   "certImages": [],
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "modal",
+   "certStyle": "button",
+   "certShape": "pill",
+   "roles": [
+    {
+     "id": 61,
+     "title": "UPG Champion",
+     "startDate": "Jan 2025",
+     "endDate": "",
+     "description": "Advocate for sustainability, social impact, and innovation. Lead global community projects and collaborate with international changemakers, enhancing leadership, networking, and project management skills."
+    }
+   ],
+   "certUrl": ""
+  },
+  {
+   "id": 7,
+   "institution": "BBTech Science Club, USTC — Chattogram, Bangladesh",
+   "institutionUrl": "https://www.facebook.com/bbtechscienceclub",
+   "institutionLink": "link",
+   "badge": "",
+   "images": [],
+   "imagesLabel": "",
+   "certImages": [],
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "modal",
+   "certStyle": "button",
+   "certShape": "pill",
+   "roles": [
+    {
+     "id": 71,
+     "title": "Executive Member",
+     "startDate": "Jan 2025",
+     "endDate": "Jun 2025",
+     "description": "Collaborated with a team to plan and organize science and technology events and workshops. Developed teamwork, event management, and leadership skills, and supported strategic planning and execution of student-led initiatives to promote scientific learning."
+    }
+   ],
+   "certUrl": ""
+  },
+  {
+   "id": 8,
+   "institution": "Wet Lab Research Projects",
+   "institutionUrl": "",
+   "institutionLink": "none",
+   "badge": "Ongoing",
+   "images": [],
+   "imagesLabel": "",
+   "certImages": [],
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "modal",
+   "certStyle": "button",
+   "certShape": "pill",
+   "roles": [
+    {
+     "id": 81,
+     "title": "Nutritional Assessment and Diuretic Activity of Hydroethanolic Extract and Solvent Fractions of the Roots of Lasia spinosa (L.) Thwaites",
+     "startDate": "Apr 2026",
+     "endDate": "",
+     "description": "Supervised by Dr. Mohammad Shahangir Biswas, PhD."
+    },
+    {
+     "id": 82,
+     "title": "Phytochemical Characterization and Evaluation of the Antioxidant, Antimicrobial, and Anticancer Potential of Cordyceps militaris Extracts Using In Vitro Models",
+     "startDate": "Apr 2026",
+     "endDate": "",
+     "description": "Supervised by Dr. Mohammad Shahangir Biswas, PhD."
+    }
+   ],
+   "certUrl": ""
+  },
+  {
+   "id": 9,
+   "institution": "Computational (Dry Lab) Research Projects",
+   "institutionUrl": "",
+   "institutionLink": "none",
+   "badge": "Ongoing",
+   "images": [],
+   "imagesLabel": "",
+   "certImages": [],
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "modal",
+   "certStyle": "button",
+   "certShape": "pill",
+   "roles": [
+    {
+     "id": 91,
+     "title": "Identification of PRMT5 Inhibitors for Cancer Treatment Using Machine Learning, Pan-Cancer Analysis, and In Silico Approaches",
+     "startDate": "Mar 2026",
+     "endDate": "",
+     "description": "Completed. Supervised by Dr. Rasel A. Al-Amin, PhD."
+    },
+    {
+     "id": 92,
+     "title": "Artificial Intelligence for Computational Drug Discovery: Investigating CBP/p300 Bromodomain–Y16515 Interactions in Acute Myeloid Leukemia Therapy",
+     "startDate": "Mar 2026",
+     "endDate": "",
+     "description": "Ongoing. Supervised by Dr. Rasel A. Al-Amin, PhD."
+    }
+   ],
+   "certUrl": ""
+  }
+ ],
+ "awards": [
+  {
+   "id": 1,
+   "title": "The Duke of Edinburgh's International Award 2026 (Bronze Award)",
+   "org": "The Duke of Edinburgh's International Award Foundation",
+   "period": "Sep 2026",
+   "meta": "",
+   "detail": "",
+   "orgUrl": "",
+   "orgLink": "none",
+   "certUrl": "",
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "link",
+   "certStyle": "button",
+   "certShape": "pill",
+   "certImages": []
+  },
+  {
+   "id": 2,
+   "title": "Champion, USTC Central Debate Competition 2025",
+   "org": "University of Science and Technology Chittagong",
+   "period": "10 Nov 2025",
+   "meta": "",
+   "detail": "Awarded the Champion's Crest by the Honorable Vice-Chancellor, Professor Dr. Mohammed Solaiman, for outstanding performance in team debate.",
+   "orgUrl": "",
+   "orgLink": "none",
+   "certUrl": "https://www.facebook.com/share/p/1Buwf6e6sY/",
+   "certLabel": "Post",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "link",
+   "certStyle": "button",
+   "certShape": "pill",
+   "certImages": []
+  },
+  {
+   "id": 3,
+   "title": "Certificate of Appreciation",
+   "org": "BBTech Journal Club, University of Science and Technology Chittagong",
+   "period": "Sep 2025",
+   "meta": "",
+   "detail": "Recognized for dedicated service as Public Relationship Officer, promoting scientific discussion, communication, and collaboration.",
+   "orgUrl": "",
+   "orgLink": "none",
+   "certUrl": "https://lnkd.in/gSnqg6mX",
+   "certLabel": "Link",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "link",
+   "certStyle": "button",
+   "certShape": "pill",
+   "certImages": []
+  },
+  {
+   "id": 4,
+   "title": "UPG Champion Award 2025",
+   "org": "United People Global",
+   "period": "Jan 2025",
+   "meta": "",
+   "detail": "",
+   "orgUrl": "",
+   "orgLink": "none",
+   "certUrl": "",
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "link",
+   "certStyle": "button",
+   "certShape": "pill",
+   "certImages": []
+  },
+  {
+   "id": 5,
+   "title": "Aspire Leadership Award 2024",
+   "org": "Aspire Institute Inc.",
+   "period": "Nov 2024",
+   "meta": "",
+   "detail": "",
+   "orgUrl": "",
+   "orgLink": "none",
+   "certUrl": "",
+   "certLabel": "",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "link",
+   "certStyle": "button",
+   "certShape": "pill",
+   "certImages": []
+  },
+  {
+   "id": 6,
+   "title": "1st Place, Essay Competition",
+   "org": "Biology Faculty Co-curricular Society (BFCS), University of Chittagong",
+   "period": "Jun 2024",
+   "meta": "Clean Energy: Innovation for a Brighter Tomorrow",
+   "detail": "Theme: Sundarbans Restoration – Bangladesh Perspective. Awarded 1st place for outstanding insight and innovative ideas on environmental restoration and sustainability in Bangladesh.",
+   "orgUrl": "",
+   "orgLink": "none",
+   "certUrl": "https://lnkd.in/gtCSxZ6x",
+   "certLabel": "Link",
+   "certIcon": "",
+   "certColor": "",
+   "certMethod": "link",
+   "certStyle": "button",
+   "certShape": "pill",
+   "certImages": []
+  }
+ ],
+ "sectionCopies": [
+  {
+   "id": "conferences",
+   "type": "awards",
+   "eyebrow": "Presentations",
+   "title": "Conferences & Seminars",
+   "navLabel": "Conferences",
+   "showInNav": true,
+   "data": {
+    "items": [
+     {
+      "id": 1,
+      "title": "6th International Young Biotechnologist Congress 2026 & Future Biotechnologists Summit 2026",
+      "org": "Nabab Nawab Ali Chowdhury Senate Bhaban, University of Dhaka",
+      "period": "25 Apr 2026",
+      "meta": "Poster Presentations (2)",
+      "detail": "“Role of Neuroinflammation in Brain Tumor Progression: Microglia–Astrocyte Crosstalk as a Therapeutic Target” and “Neuroinflammation in Cerebrovascular Diseases: The Role of Microglia, Astrocytes, and Cytokine Cascades”. Supervised by Dr. Mohammad Shahangir Biswas, PhD.",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "",
+      "certLabel": "",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-file-pen"
+     },
+     {
+      "id": 2,
+      "title": "2nd National Youth Cancer Congress 2026",
+      "org": "Bishwo Shahitto Kendro, Dhaka",
+      "period": "24 Apr 2026",
+      "meta": "Poster Presentation",
+      "detail": "“Role of Neuroinflammation in Brain Tumor Progression: Microglia–Astrocyte Crosstalk as a Therapeutic Target”. Supervised by Dr. Mohammad Shahangir Biswas, PhD.",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "",
+      "certLabel": "",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-file-pen"
+     },
+     {
+      "id": 3,
+      "title": "Scholars' Convergence: Research & Innovation Summit 2026",
+      "org": "Chittagong University",
+      "period": "31 Jan 2026",
+      "meta": "Poster Presentation",
+      "detail": "“Recent Advances in the Diagnosis and Management of Neurodegenerative Diseases”. Supervised by Dr. Mohammad Shahangir Biswas, PhD.",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "",
+      "certLabel": "",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-file-pen"
+     },
+     {
+      "id": 4,
+      "title": "1st International Conference on Life and Earth Sciences for Sustainable Development (ICLESSD-2025)",
+      "org": "Jagannath University, Dhaka, Bangladesh",
+      "period": "19 Dec 2025",
+      "meta": "Poster Presentation",
+      "detail": "“Recent Advances in the Diagnosis and Management of Neurodegenerative Diseases”. Supervised by Dr. Mohammad Shahangir Biswas, PhD. Plenary, scientific and poster sessions spanning biochemistry, genomics and bioinformatics, microbiome and public health, genetic engineering, pharmaceutical sciences, and environmental sustainability.",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://lnkd.in/g6eH8Fxv",
+      "certLabel": "Link",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-file-pen"
+     },
+     {
+      "id": 5,
+      "title": "2nd International Conference on Recent Advances in Science and Technology (ICRAST 2025)",
+      "org": "University of Rajshahi, Rajshahi, Bangladesh",
+      "period": "14–15 Nov 2025",
+      "meta": "Poster Presentation",
+      "detail": "“Neuroinflammation in Cerebrovascular Diseases: The Role of Microglia, Astrocytes, and Cytokine Cascades”. Supervised by Dr. Mohammad Shahangir Biswas, PhD. Engaged with national and international researchers and discussed neuroinflammatory mechanisms and their therapeutic implications.",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://lnkd.in/gnBGSKdy",
+      "certLabel": "Link",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-file-pen"
+     },
+     {
+      "id": 6,
+      "title": "6th International Conference on Biotechnology in Health and Agriculture (ICBHA 2025)",
+      "org": "Sher-e-Bangla Agricultural University, Dhaka, Bangladesh",
+      "period": "26–27 Sep 2025",
+      "meta": "Poster Presentation",
+      "detail": "“Emerging Insights into Neuroinflammation in Cerebrovascular Diseases: The Role of Microglia, Astrocytes, and Cytokine Cascades”. Supervised by Dr. Mohammad Shahangir Biswas, PhD. Engaged with international experts on genome editing, cancer biology, bioinformatics, and environmental biotechnology.",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://lnkd.in/gDeVJtNV",
+      "certLabel": "Link",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-file-pen"
+     },
+     {
+      "id": 7,
+      "title": "CEAB–CCRTB International Conference 2025 (UNESCO Participation Program 2024–25)",
+      "org": "Nabab Nawab Ali Chowdhury Senate Bhaban, University of Dhaka",
+      "period": "25 Sep 2025",
+      "meta": "Poster Presentation",
+      "detail": "“Emerging Insights into Neuroinflammation in Cerebrovascular Diseases”. Developed academic communication, networking, and presentation skills under the guidance of Dr. Mohammad Shahangir Biswas, PhD.",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://lnkd.in/gZgutyxm",
+      "certLabel": "Link",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-file-pen"
+     },
+     {
+      "id": 8,
+      "title": "World DNA Day 2025 – BBTech Science Club, USTC",
+      "org": "Chattogram, Bangladesh",
+      "period": "24 Aug 2025",
+      "meta": "Oral & Poster Presentations",
+      "detail": "Presentations prepared under Dr. Mohammad Shahangir Biswas, PhD. Enhanced presentation skills: audience engagement, visual aid utilization, and concise poster design.",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://lnkd.in/gb8wuHKd",
+      "certLabel": "Link",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-file-pen"
+     },
+     {
+      "id": 9,
+      "title": "1st National Youth Cancer Congress 2025",
+      "org": "Bishwo Shahitto Kendro, Dhaka, Bangladesh",
+      "period": "7–8 Feb 2025",
+      "meta": "Participant",
+      "detail": "Participated in sessions on cancer prevention, treatment, and research; engaged with pioneers in oncology and strengthened understanding of cancer care in Bangladesh.",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://lnkd.in/gT-c3-U9",
+      "certLabel": "Link",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-file-pen"
+     }
+    ]
+   }
+  },
+  {
+   "id": "certifications",
+   "type": "awards",
+   "eyebrow": "Training",
+   "title": "Licenses & Certifications",
+   "navLabel": "Certifications",
+   "showInNav": true,
+   "data": {
+    "items": [
+     {
+      "id": 1,
+      "title": "Basic Research Training in Computer-Aided Drug Design & Publication",
+      "org": "CADD Lab, GSTU",
+      "period": "2025",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://drive.google.com/file/d/10BG0mDr8YRf4N7ZR0clYgC2CyWPV1an6/view",
+      "certLabel": "Credential",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-certificate"
+     },
+     {
+      "id": 2,
+      "title": "Advanced Training: Methods in Health Research & Ethics",
+      "org": "Global-ALT",
+      "period": "2025",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://drive.google.com/file/d/1cs7zjyLPzAMQo9xtRnXEqGDUmNgRnLsK/view",
+      "certLabel": "Credential",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-certificate"
+     },
+     {
+      "id": 3,
+      "title": "Infection Prevention and Control Measures in Health-Care Settings for Ebola or Marburg Disease Outbreaks",
+      "org": "World Health Organization",
+      "period": "Nov 2024 – Nov 2025",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://openwho.org/verify/xeror-baciv-vytuz-kivet-hotat",
+      "certLabel": "Credential",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-certificate"
+     },
+     {
+      "id": 4,
+      "title": "Basic Molecular Biology Modules 3 & 4: Nucleic Acid Extraction; PCR & Real-Time PCR",
+      "org": "Centers for Disease Control and Prevention",
+      "period": "Nov 2024",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://drive.google.com/file/d/1zlh608Vz2MLYqGrG4hHRmT-AXp3jwe8v/view",
+      "certLabel": "Credential",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-certificate"
+     },
+     {
+      "id": 5,
+      "title": "Fully Funded International Genomics and Bioinformatics Bootcamp",
+      "org": "Genomac Institute Inc.",
+      "period": "Nov 2024",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://drive.google.com/file/d/1o6sUOfTa4uvFncMzS3EYSEEdZmRaj6Lf/view?usp=sharing",
+      "certLabel": "Credential",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-certificate"
+     },
+     {
+      "id": 6,
+      "title": "Workshop on Bioinformatics and Computer-Aided Drug Design (CADD)",
+      "org": "BioPc – A Bioinformatics Lab of Research and Training",
+      "period": "10 May 2024",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://drive.google.com/file/d/1dEUCer0ZXRr4RV34vgStcEo_cEJSz26k/view",
+      "certLabel": "Credential",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-certificate"
+     },
+     {
+      "id": 7,
+      "title": "A Workshop on Bioinformatics: Bridging Science and Computer",
+      "org": "BioChemix Club, RU",
+      "period": "5 Apr 2024",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://drive.google.com/file/d/1qr4fS1Y1iM7Uj-72tilvidrCHVr0IwOD/view",
+      "certLabel": "Credential",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-certificate"
+     },
+     {
+      "id": 8,
+      "title": "Pandemic Planning: Getting “PRET” for the Next Pandemic",
+      "org": "World Health Organization",
+      "period": "2024",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://drive.google.com/file/d/14ihrtxGT_jjs1anvh4z--Uk8U3jgb7Yp/view",
+      "certLabel": "Credential",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-certificate"
+     },
+     {
+      "id": 9,
+      "title": "Clinical Microbiology Virtual Journal Club Webinars",
+      "org": "American Society for Microbiology",
+      "period": "2024",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "https://drive.google.com/file/d/1-0XIHvR4DxjGU1_95pSjje0Alx1Swgz4/view",
+      "certLabel": "Credential",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-certificate"
+     }
+    ]
+   }
+  },
+  {
+   "id": "memberships",
+   "type": "awards",
+   "eyebrow": "Professional Networks",
+   "title": "Networks & Memberships",
+   "navLabel": "Memberships",
+   "showInNav": true,
+   "data": {
+    "items": [
+     {
+      "id": 1,
+      "title": "American Society for Microbiology (ASM)",
+      "org": "Washington, DC, United States",
+      "period": "Apr 2024 – Present",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "",
+      "certLabel": "",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-id-card"
+     },
+     {
+      "id": 2,
+      "title": "Microbiology Society",
+      "org": "United Kingdom",
+      "period": "Mar 2025 – Present",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "",
+      "certLabel": "",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-id-card"
+     },
+     {
+      "id": 3,
+      "title": "British Society for Immunology (BSI)",
+      "org": "London, United Kingdom",
+      "period": "Jan 2025 – Present",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "",
+      "certLabel": "",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-id-card"
+     },
+     {
+      "id": 4,
+      "title": "American Chemical Society (ACS)",
+      "org": "Washington, DC, United States",
+      "period": "Dec 2024 – Present",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "",
+      "certLabel": "",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-id-card"
+     },
+     {
+      "id": 5,
+      "title": "Royal Society of Chemistry (RSC)",
+      "org": "United Kingdom",
+      "period": "Dec 2024 – Present",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "",
+      "certLabel": "",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-id-card"
+     },
+     {
+      "id": 6,
+      "title": "German Chemical Society (GDCh)",
+      "org": "Frankfurt am Main, Germany",
+      "period": "Jan 2025",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "",
+      "certLabel": "",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-id-card"
+     },
+     {
+      "id": 7,
+      "title": "Royal Microscopical Society (RMS)",
+      "org": "Oxford, United Kingdom",
+      "period": "Feb 2025 – Present",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "",
+      "certLabel": "",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-id-card"
+     },
+     {
+      "id": 8,
+      "title": "Australasian Association for Clinical Biochemistry and Laboratory Medicine (AACB)",
+      "org": "Alexandria NSW, Australia",
+      "period": "Dec 2024 – Present",
+      "meta": "",
+      "detail": "",
+      "orgUrl": "",
+      "orgLink": "none",
+      "certUrl": "",
+      "certLabel": "",
+      "certIcon": "",
+      "certColor": "",
+      "certMethod": "link",
+      "certStyle": "button",
+      "certShape": "pill",
+      "certImages": [],
+      "icon": "fa-solid fa-id-card"
+     }
+    ]
+   }
+  }
+ ],
+ "customSections": [
+  {
+   "id": "languages",
+   "type": "text",
+   "eyebrow": "Communication",
+   "title": "Languages",
+   "navLabel": "Languages",
+   "showInNav": false,
+   "content": "- **Bengali** — mother tongue\n- **English** — listening C1, reading B2, spoken production B2, spoken interaction B2, writing B2\n- **Hindi** — listening C1, reading A1, spoken production B2, spoken interaction C1, writing A1\n\nCEFR levels: A1–A2 basic user; B1–B2 independent user; C1–C2 proficient user."
+  }
+ ],
+ "references": [
+  {
+   "id": 1,
+   "name": "Dr. Mohammad Shahangir Biswas",
+   "title": "Associate Professor and Chairman",
+   "dept": "Department of Biochemistry and Biotechnology\nUniversity of Science and Technology Chittagong\nChattogram-4202, Bangladesh",
+   "email": "shahangirbiswas@ustc.ac.bd",
+   "badge": "Research Supervisor",
+   "deptUrl": "",
+   "deptLink": "none",
+   "photoUrl": ""
+  },
+  {
+   "id": 2,
+   "name": "Dr. Rasel A. Al-Amin, PhD",
+   "title": "PharmaPrecision & Innovation Ltd, OxUpp AB",
+   "dept": "Former Researcher: University of Oxford, UK & Uppsala University, Sweden\nPh.D. – Uppsala University",
+   "email": "drrasel.alamin@gmail.com",
+   "badge": "Research Supervisor",
+   "deptUrl": "",
+   "deptLink": "none",
+   "photoUrl": ""
+  }
+ ],
+ "gallery": [],
+ "galleryAlbums": [
+  "All Photos"
+ ],
+ "extracurricular": [],
+ "recommendations": [],
+ "sectionVisibility": {
+  "about": true,
+  "aboutMe": true,
+  "metrics": true,
+  "researchFocus": true,
+  "education": true,
+  "skills": true,
+  "publications": true,
+  "awards": true,
+  "experience": true,
+  "references": true,
+  "researchInterests": true,
+  "currentResearch": true,
+  "recentUpdates": true,
+  "publicationFilters": true,
+  "publicationList": true,
+  "awardsList": true,
+  "experienceList": true,
+  "referencesList": true,
+  "focusKeywords": true,
+  "contact": true,
+  "gallery": false,
+  "galleryAlbums": false,
+  "galleryList": false,
+  "researchPhilosophy": false,
+  "recommendations": false,
+  "extracurricular": false
+ },
+ "sectionOrder": [
+  "about",
+  "aboutMe",
+  "metrics",
+  "researchFocus",
+  "education",
+  "publications",
+  "experience",
+  "skills",
+  "awards",
+  "conferences",
+  "certifications",
+  "memberships",
+  "languages",
+  "focusKeywords",
+  "references",
+  "contact"
+ ],
+ "siteText": {
+  "title": "Abdullah Al Rafi | Biochemistry & Biotechnology Researcher",
+  "navTitle": "Biochemistry & Biotechnology",
+  "navAbout": "About",
+  "navEducation": "Education",
+  "navSkills": "Skills",
+  "navPublications": "Publications",
+  "navAwards": "Awards",
+  "navExperience": "Experience",
+  "navGallery": "Gallery",
+  "navReferences": "References",
+  "cv": "CV",
+  "downloadCv": "Download CV",
+  "heroBadge": "",
+  "researchDirection": "Direction & Approach",
+  "researchFocus": "Research Focus",
+  "researchInterests": "Research Interests",
+  "researchPhilosophy": "",
+  "currentWorking": "Currently Working On",
+  "recentUpdates": "Recent Updates",
+  "academicBackground": "Academic Background",
+  "academicCredentials": "Academic Credentials",
+  "coreExpertise": "Core Expertise",
+  "technicalCapabilities": "Technical Capabilities",
+  "scholarlyOutput": "Scholarly Output",
+  "publications": "Publications & Manuscripts",
+  "searchPublications": "Search title, journal, or topic...",
+  "recognition": "Recognition",
+  "awards": "Honours & Awards",
+  "careerTrajectory": "Career Trajectory",
+  "experience": "Experience & Research Projects",
+  "academicGallery": "Academic Gallery",
+  "gallery": "Fieldwork & Media Gallery",
+  "recommenders": "Recommenders",
+  "references": "Academic References",
+  "expandView": "Expand View",
+  "noMatching": "No matching manuscripts found.",
+  "doi": "DOI",
+  "firstAuthor": "First Author",
+  "published": "Published",
+  "underReview": "Under Review",
+  "manuscripts": "Manuscripts",
+  "firstAuthorMetric": "First-Author",
+  "yearsResearch": "Yrs Research Exp.",
+  "reference": "Reference",
+  "photo": "Photo",
+  "general": "General",
+  "allPhotos": "All Photos",
+  "rights": "All rights reserved.",
+  "viewAll": "View all manuscripts",
+  "showFewer": "Show fewer manuscripts",
+  "footerTitle": "Aspiring PhD Researcher | Biochemistry & Biotechnology",
+  "noGalleryPhotos": "No gallery photos in this album.",
+  "visitLink": "",
+  "cgpaLabel": "",
+  "seeAll": "See all",
+  "seeLess": "Show fewer",
+  "certificate": "Credential",
+  "viewImages": "images",
+  "sendMessage": "Send me an email",
+  "recommendationsTitle": "Recommendations",
+  "testimonials": "What people say",
+  "navRecommendations": "Recommendations",
+  "contactTitle": "Contact Me",
+  "getInTouch": "Get in touch",
+  "navContact": "Contact",
+  "present": "Present",
+  "formError": "Please fill in every field with a valid email.",
+  "imageCounter": "Image {i} of {n}"
+ },
+ "typography": {
+  "about": "Inter",
+  "metrics": "Inter",
+  "researchFocus": "Inter",
+  "education": "Inter",
+  "skills": "Inter",
+  "publications": "Inter",
+  "awards": "Inter",
+  "experience": "Inter",
+  "gallery": "Inter",
+  "references": "Inter",
+  "researchInterests": "Inter",
+  "researchPhilosophy": "Inter",
+  "currentResearch": "Inter",
+  "recentUpdates": "Inter",
+  "publicationFilters": "Inter",
+  "publicationList": "Inter",
+  "awardsList": "Inter",
+  "experienceList": "Inter",
+  "galleryAlbums": "Inter",
+  "galleryList": "Inter",
+  "referencesList": "Inter"
+ },
+ "layout": {
+  "sectionGap": 36,
+  "subGap": 14,
+  "pubCardOpacity": 60,
+  "twoCol": true,
+  "colLeft": 30,
+  "showIcon": false,
+  "showNum": false
+ },
+ "navStyle": {
+  "sticky": true,
+  "autoHide": false
+ },
+ "pageBg": {
+  "light": {
+   "desktop": {
+    "type": "color"
+   },
+   "mobile": {
+    "type": ""
+   }
+  },
+  "dark": {
+   "desktop": {
+    "type": "default"
+   },
+   "mobile": {
+    "type": ""
+   }
+  }
+ },
+ "globalStyles": {},
+ "sectionSettings": {
+  "metrics": {
+   "countEasing": "expo"
+  },
+  "researchFocus": {
+   "collapsed": false,
+   "styles": {
+    "title": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     },
+     "size": {
+      "desktop": "28",
+      "mobile": "28"
+     }
+    }
+   }
+  },
+  "education": {
+   "collapsed": false,
+   "styles": {
+    "title": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     },
+     "weight": {
+      "desktop": "700",
+      "mobile": "700"
+     },
+     "size": {
+      "desktop": "28",
+      "mobile": "28"
+     }
+    },
+    "eduInst": {
+     "size": {
+      "desktop": "13",
+      "mobile": "13"
+     }
+    }
+   },
+   "thickLine": false,
+   "numMode": "auto",
+   "showToggle": false,
+   "bg": "teal"
+  },
+  "skills": {
+   "collapsed": false,
+   "styles": {
+    "title": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     },
+     "size": {
+      "desktop": "28",
+      "mobile": "28"
+     }
+    }
+   }
+  },
+  "publications": {
+   "collapsed": false,
+   "styles": {
+    "title": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     },
+     "size": {
+      "desktop": "28",
+      "mobile": "28"
+     }
+    }
+   }
+  },
+  "awards": {
+   "collapsed": false,
+   "styles": {
+    "title": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     },
+     "size": {
+      "desktop": "28",
+      "mobile": "28"
+     }
+    }
+   },
+   "showToggle": false
+  },
+  "experience": {
+   "collapsed": false,
+   "styles": {
+    "title": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     },
+     "size": {
+      "desktop": "28",
+      "mobile": "28"
+     }
+    }
+   },
+   "bg": "paper"
+  },
+  "gallery": {
+   "collapsed": false,
+   "styles": {
+    "title": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     },
+     "size": {
+      "desktop": "28",
+      "mobile": "28"
+     }
+    }
+   },
+   "showToggle": false
+  },
+  "references": {
+   "collapsed": false,
+   "styles": {
+    "title": {
+     "align": {
+      "desktop": "justify",
+      "mobile": "justify"
+     },
+     "size": {
+      "desktop": "28",
+      "mobile": "28"
+     }
+    }
+   },
+   "showToggle": false
+  },
+  "aboutMe": {
+   "styles": {
+    "title": {
+     "align": {
+      "desktop": "left",
+      "mobile": "left"
+     }
+    }
+   }
+  },
+  "extracurricular": {
+   "styles": {
+    "title": {
+     "size": {
+      "desktop": "28",
+      "mobile": "28"
+     }
+    }
+   }
+  },
+  "recommendations": {
+   "styles": {
+    "title": {
+     "size": {
+      "desktop": "28",
+      "mobile": "28"
+     }
+    }
+   }
+  },
+  "contact": {
+   "styles": {
+    "title": {
+     "size": {
+      "desktop": "28",
+      "mobile": "28"
+     }
+    }
+   }
+  }
+ },
+ "analytics": {
+  "goatcounter": "",
+  "showCount": false
+ }
+}
