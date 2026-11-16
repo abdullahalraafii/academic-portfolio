@@ -1417,13 +1417,13 @@
    "photoUrl": ""
   }
  ],
- "gallery": [
+  "gallery": [
   {
    "id": 1,
    "album": "Conferences",
    "title": "6th International Young Biotechnologist Congress 2026",
    "category": "Poster Presentation",
-   "imgUrl": "images/g1.jpg",
+   "imgUrl": "https://github.com/user-attachments/assets/0a4db4bb-8d0a-4372-b648-035a94cc9061",
    "caption": "Presented posters on neuroinflammation in brain tumor progression and in cerebrovascular diseases at the University of Dhaka."
   },
   {
@@ -1431,7 +1431,7 @@
    "album": "Conferences",
    "title": "ICLESSD-2025, Jagannath University",
    "category": "Poster Presentation",
-   "imgUrl": "images/g2.jpg",
+   "imgUrl": "https://github.com/user-attachments/assets/65d76113-79fe-4624-be5b-c71662ea70ec",
    "caption": "Poster on recent advances in the diagnosis and management of neurodegenerative diseases."
   },
   {
@@ -1439,7 +1439,7 @@
    "album": "Conferences",
    "title": "ICRAST 2025, University of Rajshahi",
    "category": "Poster Presentation",
-   "imgUrl": "images/g3.jpg",
+   "imgUrl": "https://github.com/user-attachments/assets/4c3c376b-38e8-491b-8e9a-f3036a1a7b94",
    "caption": "Poster on microglia, astrocytes, and cytokine cascades in cerebrovascular diseases."
   },
   {
@@ -1447,7 +1447,7 @@
    "album": "Conferences",
    "title": "World DNA Day 2025, BBTech Science Club",
    "category": "Oral & Poster",
-   "imgUrl": "images/g4.jpg",
+   "imgUrl": "https://github.com/user-attachments/assets/b29888eb-96a2-45df-ae5c-1b38062c199f",
    "caption": "Oral and poster presentations at USTC, Chattogram."
   },
   {
@@ -1455,7 +1455,7 @@
    "album": "Awards & Leadership",
    "title": "Champion, USTC Central Debate Competition 2025",
    "category": "Award",
-   "imgUrl": "images/g5.jpg",
+   "imgUrl": "https://github.com/user-attachments/assets/2f6c81ac-e698-4a2b-b9f7-56d01993288c",
    "caption": "Awarded the Champion's Crest by the Honorable Vice-Chancellor for outstanding team debate performance."
   },
   {
@@ -1463,7 +1463,7 @@
    "album": "Awards & Leadership",
    "title": "The Duke of Edinburgh's International Award (Bronze)",
    "category": "Award",
-   "imgUrl": "images/g6.jpg",
+   "imgUrl": "https://github.com/user-attachments/assets/ceca7fb7-d60b-41a0-a406-6867ca186a3a",
    "caption": "Bronze Award, 2026."
   },
   {
@@ -1471,7 +1471,7 @@
    "album": "Awards & Leadership",
    "title": "Aspire Leadership Award 2024",
    "category": "Leadership",
-   "imgUrl": "images/g7.jpg",
+   "imgUrl": "https://github.com/user-attachments/assets/c6c1f3ea-773d-4aa8-8f46-e0051afb62f2",
    "caption": "Recognition from Aspire Institute Inc. following the 4-month leadership internship."
   },
   {
@@ -1479,7 +1479,7 @@
    "album": "Lab & Research",
    "title": "Lasia spinosa Root Extract Study",
    "category": "Wet Lab Research",
-   "imgUrl": "images/g8.jpg",
+   "imgUrl": "https://github.com/user-attachments/assets/45ea0627-1396-4206-a887-024838a9c48a",
    "caption": "Nutritional assessment and diuretic activity of hydroethanolic extract and solvent fractions."
   },
   {
@@ -1487,7 +1487,7 @@
    "album": "Lab & Research",
    "title": "PRMT5 Inhibitor Discovery",
    "category": "Dry Lab Research",
-   "imgUrl": "images/g9.jpg",
+   "imgUrl": "https://github.com/user-attachments/assets/dc0adcfa-5dc1-43de-8bea-3ce29125dc51",
    "caption": "Machine learning, pan-cancer analysis, and in silico approaches for cancer treatment."
   }
  ],
