@@ -1417,7 +1417,7 @@
    "photoUrl": "https://github.com/user-attachments/assets/e871024d-8e05-4a1b-9a43-ce8425c777b5"
   }
  ],
-  "gallery": [
+ "gallery": [
   {
    "id": 1,
    "album": "Conferences",
@@ -1501,7 +1501,7 @@
   {
    "id": 201,
    "club": "BBTech Journal Club, USTC",
-   "link": "",
+   "link": "https://www.facebook.com/bbtechscienceclub",
    "linkMode": "none",
    "images": [],
    "imagesLabel": "",
@@ -1533,7 +1533,7 @@
   {
    "id": 203,
    "club": "BioLuster Research Center Ltd, Dhaka",
-   "link": "",
+   "link": "https://blrcl.org/",
    "linkMode": "none",
    "images": [],
    "imagesLabel": "",
