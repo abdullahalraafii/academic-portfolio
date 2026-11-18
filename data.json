@@ -1431,7 +1431,7 @@
    "album": "Conferences",
    "title": "ICLESSD-2025, Jagannath University",
    "category": "Poster Presentation",
-   "imgUrl": "images/17de606d13773.jpg",
+   "imgUrl": "images/1bc01d1643f47.jpg",
    "caption": "Poster on recent advances in the diagnosis and management of neurodegenerative diseases."
   },
   {
@@ -1489,6 +1489,14 @@
    "category": "Dry Lab Research",
    "imgUrl": "https://github.com/user-attachments/assets/dc0adcfa-5dc1-43de-8bea-3ce29125dc51",
    "caption": "Machine learning, pan-cancer analysis, and in silico approaches for cancer treatment."
+  },
+  {
+   "id": 1794984285503,
+   "album": "Conferences",
+   "title": "Cancer",
+   "category": "",
+   "imgUrl": "images/cb8361763238b.jpg",
+   "caption": ""
   }
  ],
  "galleryAlbums": [
