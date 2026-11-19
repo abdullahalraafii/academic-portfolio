@@ -1445,7 +1445,7 @@
   {
    "id": 4,
    "album": "Conferences",
-   "title": "World DNA Day 2025, BBTech Science Club, USTC, Chittagong",
+   "title": "World DNA Day 2025, BBTech Science Club",
    "category": "Oral & Poster",
    "imgUrl": "images/4f2b7987242a7.jpg",
    "caption": "Oral and poster presentations at USTC, Chattogram."
@@ -1491,12 +1491,20 @@
    "caption": "Machine learning, pan-cancer analysis, and in silico approaches for cancer treatment."
   },
   {
-   "id": 10,
+   "id": 1794984285503,
    "album": "Conferences",
-   "title": "2nd National Youth Cancer Congress 2026, Bishwo Shahitto Kendro, Dhaka.",
-   "category": "Poster Presentation",
+   "title": "Cancer",
+   "category": "",
    "imgUrl": "images/cb8361763238b.jpg",
-   "caption": "Role of Neuroinflammation in Brain Tumor Progression: Microglia–Astrocyte Crosstalk as a Therapeutic Target."
+   "caption": ""
+  },
+  {
+   "id": 1795097225122,
+   "album": "Lab & Research",
+   "title": "WhatsApp Image 2026 11 19 at 8.07.48 PM",
+   "category": "",
+   "imgUrl": "images/95fb4ed831487.jpg",
+   "caption": ""
   }
  ],
  "galleryAlbums": [
